@@ -1,0 +1,471 @@
+.nav1{
+    width: 100%;
+    height: 60px;
+    float: left;
+    background-color: white;
+}
+.nav2{
+    margin-left: 100px;
+    float: left;
+}
+.nav3 p{
+    float: left;
+    margin-left: 150px;
+    margin-top: -30px;
+    color: #003349;
+}
+.nav4 p{
+    float: left;
+    margin-left: 30px;
+    margin-top: -30px;
+    color: #003349;
+}
+.nav5 p{
+    float: left;
+    margin-left: 30px;
+    margin-top: -30px;
+    color: #003349;
+}
+.nav7{
+    float: right;
+    margin-right: 170px;
+    margin-top: -35px;
+    color: #003349;
+}
+.nav8{
+    float: right;
+    margin-right: 120px;
+    margin-top: -35px;
+    color: #003349;
+}
+.nav9{
+    float: right;
+    margin-right: 10px;
+    margin-top: -50px;
+    color: #003349;
+    
+}
+.tip{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: #003349;
+}
+.tip img{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.top{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    float: left;
+}
+.top1{
+    margin-top: 100px;
+    margin-left: 10%;
+    float: left;
+}
+.top2{
+    margin-top: 100px;
+    margin-left: 7%;
+    float: left;
+}
+.top3{
+    margin-top: 40px;
+    margin-left: 7%;
+    float: left;
+}
+.flip{
+    margin-left: 8%;
+    float: left;
+}
+.flop{
+    float: left;
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.flop img{
+    margin-top: 90px;
+    margin-left: -20px;
+}
+.flop i{
+    margin-top: 250px;
+    margin-left: 3%;
+    float: left;
+    width: 80px;
+    
+}
+.flop h2{
+    color: #003349;
+    margin-left: 7%;
+}
+.flop p{
+    margin-left: 7%;
+    color: #003349;
+}
+.flop1{
+    float: left;
+    margin-left: 31%;
+    margin-top: -430px;
+}
+.flop1 h2{
+    margin-left: -20px;
+    
+}
+.flop1 p{
+    margin-left: -20px;
+}
+.flop2{
+    margin-left: 45%;
+    margin-top: -430px;
+}
+.flop2 img{
+    margin-left: 12%;
+    
+}
+.flop2 h2{
+    margin-left: 12%;
+}
+.flop2 p{
+    margin-left: 12%;
+}
+.flop3{
+    margin-left: 75%;
+    margin-top: -440px;
+}
+.flop3 h2{
+    margin-left: -6%;
+}
+.flop3 p{
+    margin-left: -6%;
+}
+.flop4{
+    float: right;
+    margin-right: -20px;
+    margin-top: -430px;
+}
+.sif{
+    float: left;
+    margin-left: 5%;
+}
+.dip{
+    float: left;
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.dip img{
+    margin-top: 90px;
+    margin-left: -20px;
+}
+.dip i{
+    margin-top: 250px;
+    margin-left: 3%;
+    float: left;
+    width: 80px;
+    
+}
+.dip h2{
+    color: #003349;
+    margin-left: 7%;
+}
+.dip p{
+    margin-left: 7%;
+    color: #003349;
+}
+.dip1{
+    float: left;
+    margin-left: 31%;
+    margin-top: -430px;
+}
+.dip1 h2{
+    margin-left: -20px;
+    
+}
+.dip1 p{
+    margin-left: -20px;
+}
+.dip2{
+    margin-left: 45%;
+    margin-top: -430px;
+}
+.dip2 img{
+    margin-left: 12%;
+    
+}
+.dip2 h2{
+    margin-left: 12%;
+}
+.dip2 p{
+    margin-left: 12%;
+}
+.dip3{
+    margin-left: 75%;
+    margin-top: -440px;
+}
+.dip3 h2{
+    margin-left: -6%;
+}
+.dip3 p{
+    margin-left: -6%;
+}
+.dip4{
+    float: right;
+    margin-right: -20px;
+    margin-top: -430px;
+}
+.lift{
+    height: 650px;
+    background-color: white;
+    float: left;
+    width: 100%;
+    margin-top: 70px;
+}
+.lift2{
+    float: right;
+    margin-top: -650px;
+    margin-right: 50px;
+}
+.lift1{
+    margin-left: 70px;
+}
+.pic{
+    margin-top: 50px;
+    margin-left: 7%;
+}
+.lof{
+    float: left;
+    height: 450px;
+    width: 100%;
+    background-color: white;
+}
+.lof img{
+    margin-top: 90px;
+    margin-left: -20px;
+}
+.lof i{
+    margin-top: 250px;
+    margin-left: 3%;
+    float: left;
+    width: 80px;
+    
+}
+.lof h2{
+    color: #003349;
+    margin-left: 7%;
+}
+
+.lof1{
+    float: left;
+    margin-left: 31%;
+    margin-top: -390px;
+}
+.lof1 h2{
+    margin-left: -20px;
+    
+}
+.lof2{
+    margin-left: 45%;
+    margin-top: -392px;
+}
+.lof2 img{
+    margin-left: 12%;
+    
+}
+.lof2 h2{
+    margin-left: 12%;
+}
+
+.lof3{
+    margin-left: 75%;
+    margin-top: -362px;
+}
+.lof3 h2{
+    margin-left: -6%;
+}
+
+.lof4{
+    float: right;
+    margin-right: -20px;
+    margin-top: -430px;
+}
+.next{
+    width: 100%;
+    height: 450px;
+    background-color: white;
+    float: left;
+    color: #003349;
+}
+.next1{
+    float: left;
+    margin-left: 10%;
+}
+.next2{
+    margin-left: 100px;
+    float: left;
+}
+.next2 button{
+    height: 50px;
+    width: 120px;
+    background-color: white;
+    color: blue;
+    border-radius: 2px;
+    border: 1px solid blue;
+}
+.next2 p{
+    margin-top: 50px;
+}
+.next2 img{
+    margin-left: -10px;
+}
+.spot{
+    margin-top: 50px;
+    float: left;
+    margin-left:9%;
+}
+.pis{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    float: left;
+    color: #003349;
+}
+.pis1{
+    float: left;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.pis2{
+    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+}
+.com{
+    background-color: #003349;
+    float: left;
+    height: 200px;
+    width: 80%;
+    margin-left: 10%;
+    color: white;
+}
+.com h1{
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.com h3{
+    margin-left: -250px;
+    margin-top: 70px;
+    float: left;
+}
+.com form input{
+    margin-top: 120px;
+    margin-left: -400px;
+    float: left;
+    height: 60px;
+    width: 70%;
+    border-radius: 5px;
+    border: 5px solid #003349;
+    padding-left: 15px;
+
+    
+}
+.com button{
+    margin-top: 125px;
+    height: 50px;
+    width: 20%;
+    background-color: #ffd000;
+    border: #003349;
+    border-radius:5px;
+
+}
+.note{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+    float: left;
+}
+.am{
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.am h3{
+    color: #003349;
+}
+.am p{
+    color: #006583;
+}
+.very{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.very h3{
+    color: #003349;
+}
+.very p{
+    color: #006583;
+}
+.tired{
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+.tired h3{
+    color: #003349;
+}
+.tired p{
+    color: #006583;
+}
+.finally{
+     float: left;
+     margin-top: 50px;
+     margin-left: 50px;
+}
+.finally h3{
+    color: #003349;
+}
+.finally p{
+    color: #006583;
+}
+.done{
+    float: left;
+    color: #003349;
+    margin-left: 25%;
+    margin-top: -70px;
+}
+.yay{
+    background-color: whitesmoke;
+    float: left;
+    width: 100%;
+    height: 50px;
+    margin-top: 100px;
+}
+.yay p{
+    color: #006583;
+    float: left;
+    margin-left: 150px;
+    margin-top: -40px;
+}
+/* .yes{
+    float: left;
+    margin-top: -40px;
+    margin-left: 1300px;
+}
+.o{
+    float: left;
+    margin-left: 40px;
+    margin-top: -18px;
+}
+.n{
+    float: right;
+    
+}
+.e{
+    float: right;
+    margin-right: 300px;
+    margin-top: 40px;
+} */
